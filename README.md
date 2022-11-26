@@ -23,6 +23,7 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 # Installation
 
 npm init -y
+
 npm install
 
 # Usage
